@@ -1,0 +1,258 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2024-12-17T13:12:37.877303+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/janfifian/SecondCycleStudiesDataset",
+    "code:developmentStatus": {
+      "id": "wip",
+      "title": {
+        "en": "Wip"
+      }
+    }
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "Anonymized Survey.xlsx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:da514a0fdc8396ae770293318e0a423b",
+        "ext": "xlsx",
+        "id": "c29b55aa-e842-4ecb-a61f-55e19f34f320",
+        "key": "Anonymized Survey.xlsx",
+        "links": {
+          "content": "https://zenodo.org/api/records/14507013/files/Anonymized%20Survey.xlsx/content",
+          "self": "https://zenodo.org/api/records/14507013/files/Anonymized%20Survey.xlsx"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 67414,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 67414
+  },
+  "id": "14507013",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/14507013/access",
+    "access_grants": "https://zenodo.org/api/records/14507013/access/grants",
+    "access_links": "https://zenodo.org/api/records/14507013/access/links",
+    "access_request": "https://zenodo.org/api/records/14507013/access/request",
+    "access_users": "https://zenodo.org/api/records/14507013/access/users",
+    "archive": "https://zenodo.org/api/records/14507013/files-archive",
+    "archive_media": "https://zenodo.org/api/records/14507013/media-files-archive",
+    "communities": "https://zenodo.org/api/records/14507013/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/14507013/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.14507013",
+    "draft": "https://zenodo.org/api/records/14507013/draft",
+    "files": "https://zenodo.org/api/records/14507013/files",
+    "latest": "https://zenodo.org/api/records/14507013/versions/latest",
+    "latest_html": "https://zenodo.org/records/14507013/latest",
+    "media_files": "https://zenodo.org/api/records/14507013/media-files",
+    "parent": "https://zenodo.org/api/records/14507012",
+    "parent_doi": "https://doi.org/10.5281/zenodo.14507012",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14507012",
+    "parent_html": "https://zenodo.org/records/14507012",
+    "requests": "https://zenodo.org/api/records/14507013/requests",
+    "reserve_doi": "https://zenodo.org/api/records/14507013/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/14507013",
+    "self_doi": "https://doi.org/10.5281/zenodo.14507013",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14507013",
+    "self_html": "https://zenodo.org/records/14507013",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14507013/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14507013/sequence/default",
+    "versions": "https://zenodo.org/api/records/14507013/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "00s8fpf52",
+            "identifiers": [
+              {
+                "identifier": "00s8fpf52",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.412284.9",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0620 0652",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Lodz University of Technology"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Turobo\u015b",
+          "given_name": "Filip",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5782-6159",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Turobo\u015b, Filip",
+          "type": "personal"
+        },
+        "role": {
+          "id": "projectleader",
+          "title": {
+            "de": "ProjektleiterIn",
+            "en": "Project leader"
+          }
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2024",
+        "description": "Date of collection",
+        "type": {
+          "id": "collected",
+          "title": {
+            "de": "Gesammelt",
+            "en": "Collected"
+          }
+        }
+      }
+    ],
+    "description": "<p>A dataset containing survey results conducted at Polish Higher Education Institutions regarding the retention of students between first- and second-cycle of studies in Poland.</p>\n<p>English translation will be available soon.</p>",
+    "funding": [
+      {
+        "award": {
+          "number": "2023/07/X/ST1/01687",
+          "title": {
+            "en": "MINIATURA 7"
+          }
+        },
+        "funder": {
+          "id": "03ha2q922",
+          "name": "National Science Center"
+        }
+      }
+    ],
+    "languages": [
+      {
+        "id": "pol",
+        "title": {
+          "en": "Polish"
+        }
+      }
+    ],
+    "publication_date": "2024-12-17",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "A survey on retention of students between the first- and second-cycle studies in Poland",
+    "version": "1.0"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1236828"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "14507012",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.14507012",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.14507013",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:14507013",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 6,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2024-12-17T13:16:08.246200+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
